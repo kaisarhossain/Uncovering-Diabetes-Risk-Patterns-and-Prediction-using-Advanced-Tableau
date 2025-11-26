@@ -105,7 +105,7 @@ Predicts:
 - **Risk Level (Low / Moderate / High)**
 - **Confidence score**
 
-**Model uses:**
+**Features used:**
 - HbA1c  
 - Glucose (fasting + postprandial)  
 - BMI  
