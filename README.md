@@ -1,0 +1,2 @@
+# Uncovering-Diabetes-Risk-Patterns-and-Prediction-using-Advanced-Tableau
+Leveraging Tableau for visual data storytelling, turning raw health records into intuitive, interactive visualizations using Tableau that highlight how demographic, lifestyle, heredity and clinical factors contribute to diabetes risk. Further, the integration of predictive modeling using TabPy enables real-time classification of diabetes risk.
